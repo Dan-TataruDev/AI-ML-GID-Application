@@ -1,0 +1,13 @@
+Month_Number,Month_Name,Quarter,Predicted_Documents,CI_Lower_90,CI_Upper_90,Predicted_Applicants,Activity_Level,High_Activity_Month,Priority,Recommendation
+1,January,1,14,8,21,6,High,True,HIGH,HIGH - Increase capacity by 30%
+2,February,1,13,7,20,5,High,True,HIGH,HIGH - Increase capacity by 30%
+3,March,1,9,4,16,3,Medium,False,NORMAL,✓ NORMAL - Standard operations
+4,April,2,8,4,15,3,Low,False,LOW,→ LOW - Reduced staffing acceptable
+5,May,2,7,3,13,3,Low,False,LOW,→ LOW - Reduced staffing acceptable
+6,June,2,10,5,17,4,Medium,False,NORMAL,✓ NORMAL - Standard operations
+7,July,3,15,9,24,6,Very High,True,CRITICAL,CRITICAL - Allocate 50% more resources
+8,August,3,16,9,25,7,Very High,True,CRITICAL,CRITICAL - Allocate 50% more resources
+9,September,3,13,7,22,5,High,True,HIGH,HIGH - Increase capacity by 30%
+10,October,4,11,6,19,4,Medium,False,NORMAL,✓ NORMAL - Standard operations
+11,November,4,12,6,19,5,High,True,HIGH,HIGH - Increase capacity by 30%
+12,December,4,9,4,15,3,Medium,False,NORMAL,✓ NORMAL - Standard operations
